@@ -2,7 +2,7 @@
 
 Noteworthy is a web application that allows users to write, save, view, and delete notes. It provides a simple and intuitive interface for users to organize their thoughts and keep track of tasks.
 
-![Screenshot](/public/images/screenshot.png)
+![Screenshot](Develop/public/images/screenshot.png)
 
 ## Features
 
